@@ -1,16 +1,19 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/fynex-ai/.github/main/profile/fynex-logo.png" alt="Fynex" width="240">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fynex-ai/.github/main/profile/fynex-logo-dark.png">
+  <img src="https://raw.githubusercontent.com/fynex-ai/.github/main/profile/fynex-logo.png" alt="Fynex" width="240">
+</picture>
 
 ### The intelligence layer for finance, run by AI agents
 
 Most finance tools execute and stop. Fynex runs the whole money chain — payments in, payouts out,
 reconciliation back to your books — and reasons across it.
 
-[![API docs](https://img.shields.io/badge/API_docs-live_OpenAPI-2c2740?style=for-the-badge)](https://api.fynex.ai/payments-api/v2/docs)
-[![OpenAPI](https://img.shields.io/badge/openapi.json-3.1-3a3550?style=for-the-badge)](https://api.fynex.ai/payments-api/v2/openapi.json)
-[![Website](https://img.shields.io/badge/fynex.ai-website-5a5570?style=for-the-badge)](https://fynex.ai)
-[![Dashboard](https://img.shields.io/badge/dashboard-sign_in-8b8796?style=for-the-badge)](https://dashboard.fynex.ai)
+[![API docs](https://img.shields.io/badge/API%20docs-9EFBCD?style=for-the-badge&labelColor=9EFBCD)](https://api.fynex.ai/payments-api/v2/docs)
+[![OpenAPI 3.1](https://img.shields.io/badge/OpenAPI%203.1-5a5570?style=for-the-badge&labelColor=5a5570)](https://api.fynex.ai/payments-api/v2/openapi.json)
+[![fynex.ai](https://img.shields.io/badge/fynex.ai-5a5570?style=for-the-badge&labelColor=5a5570)](https://fynex.ai)
+[![Dashboard](https://img.shields.io/badge/Dashboard-5a5570?style=for-the-badge&labelColor=5a5570)](https://dashboard.fynex.ai)
 
 </div>
 
